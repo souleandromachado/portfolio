@@ -2,7 +2,7 @@
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://github.com/souleandromachado/portfolio/blob/main/assets/site_pronto.png?raw=true)
+![](https://raw.githubusercontent.com/souleandromachado/portfolio/main/assets/site_pronto.png)
 
 ## Ferramentas utilizadas:
 
